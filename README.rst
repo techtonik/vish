@@ -1,5 +1,15 @@
-Vex
-###
+Vish
+####
+This is a fork of `vex` by Sasha Hart, made, because he doesn't want
+to see the following features in his personal project repository:
+
+ * run as `python -m vex`
+ * run/create in `virtualenv` located relative to current dir
+ 
+Except for these two features, his code is maintained better and you
+should check it if `vex` suits you better.
+
+--- vex doc is below ---
 
 Run a command in the named virtualenv.
 
